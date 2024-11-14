@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832239045884",
+    "project_id": "desafio-f2891",
+    "storage_bucket": "desafio-f2891.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832239045884:android:7c38bcccaf1203041d1b79",
+        "android_client_info": {
+          "package_name": "br.unisanta.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPgsiB8tunT390WU1T_b67c8P8nyrn8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
